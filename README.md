@@ -104,7 +104,7 @@ My goal is to grow as a **Data Analyst / Business Analyst**, combining strong an
 
 **GitHub:** [mohamedzalat412](https://github.com/mohamedzalat412)  
 **LinkedIn:** [Mohamed Islam Zalat](https://www.linkedin.com/in/mohamed-islam-zalat-4b81672b6/YOUR_LINKEDIN_URL)  
-**Email:** [moislamzalat@gmail.com](mailto:moislamzalat@gmail.com)
+**Email:** [mo.islamzalat@gmail.com](mailto:mo.islamzalat@gmail.com)
 
 I’m always open to learning, collaborating, and working on projects involving **Data Analytics, Business Intelligence, and Business Process Improvement**.
 
