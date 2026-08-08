@@ -102,6 +102,9 @@ I focus on solving business problems through data by:
 My goal is to grow as a **Data Analyst / Business Analyst**, combining strong analytical skills with real-world business understanding to build solutions that create **measurable business value**.
 
 ## 📫 **Let’s Connect**
+🌐 GitHub: mohamedzalat412
+💼 LinkedIn: Mohamed Zalat
+📧 Email: mo.islamzalat@gmail.com
 
 I’m always open to learning, collaborating, and working on projects involving **Data Analytics, Business Intelligence, and Business Process Improvement**.
 
